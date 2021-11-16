@@ -45,7 +45,7 @@
   </div>
   <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=shivansh-yadav13&show_icons=true&locale=en&theme=tokyonight" alt="shivansh-yadav13" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-yadav13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivansh-yadav13" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-yadav13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivansh-yadav13" />
   </div>
   
 
