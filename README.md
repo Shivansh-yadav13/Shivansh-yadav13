@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/badge/-yadavshivansh@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yadavshivansh@gmail.com">
   <a href="https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ"><img src="https://img.shields.io/badge/-BaconHairCode-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ"></a>
   
-  🙋‍‍♂️ I am 18 yrs old, currently a student, very keen to explore more techs, Open source, Web Dev, AI/ML.<br>
+  🙋‍‍♂️ I am 18 yrs old, currently a student, very keen to explore more techs, Open source, MERN Stack, AI/ML.<br>
   🔭 I’m currently working on improving my Web Development skills.<br>
-  🌱 I’m currently learning MERN.<br>
+<!--   🌱 I’m currently learning MERN.<br> -->
   👬‍ I’m looking to collaborate on Web dev Projects.<br>
 <!--   🤔 I’m looking for help with ...<br> -->
 <!--   💬 Ask me about ...<br>
