@@ -7,7 +7,7 @@
   
   🙋‍‍♂️ I am 18 yrs old, currently a student, very keen to explore more techs, Open source, MERN Stack, AI/ML.<br>
   🔭 I’m currently working on improving my Web Development skills.<br>
-<!--   🌱 I’m currently learning MERN.<br> -->
+  🌱 I’m currently learning about DevOps<br>
   👬‍ I’m looking to collaborate on Web dev Projects.<br>
 <!--   🤔 I’m looking for help with ...<br> -->
 <!--   💬 Ask me about ...<br>
