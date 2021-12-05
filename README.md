@@ -42,11 +42,11 @@
   | [![img](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://www.javascript.com/) | [![img](https://img.shields.io/badge/-Firebase-563D7C?style=for-the-badge&logo=Firebase&color=orange&logoColor=white)](https://firebase.google.com/) |
   | [![img](https://img.shields.io/badge/-MYSQL-563D7C?style=for-the-badge&logo=mysql&color=blue&logoColor=white)](https://www.mysql.com/) | -->
   
-  </div>
+<!--   </div>
   <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=shivansh-yadav13&show_icons=true&locale=en&theme=tokyonight" alt="shivansh-yadav13" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivansh-yadav13&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shivansh-yadav13" />
   </div>
-  
+   -->
 
 </div>
