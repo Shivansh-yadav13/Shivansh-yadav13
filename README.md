@@ -1,9 +1,10 @@
 ![Banner](https://user-images.githubusercontent.com/87603425/141933741-7c8d48f4-3099-4f2e-bc52-10b49f3f42a3.png)
 <div align="center">
   
-  <a href="https://twitter.com/_shivansh_13"><img src="https://img.shields.io/static/v1?label=%20&message=Shivansh Yadav&color=blue&style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/-yadavshivansh@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yadavshivansh@gmail.com">
-  <a href="https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ"><img src="https://img.shields.io/badge/-BaconHairCode-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ"></a>
+  [![Twitter](https://img.shields.io/static/v1?label=%20&message=ShivanshYadav&color=blue&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_shivansh_13)
+  ![Gmail](https://img.shields.io/badge/-yadavshivansh@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yadavshivansh@gmail.com)
+  [![Youtube](https://img.shields.io/badge/-BaconHairCode-darkred?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ)](https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ)
+  [![Blogs](https://img.shields.io/static/v1?label=%20&message=Shivansh%20Yadav%20-%20Blogs&color=black&style=for-the-badge&logo=medium&logoColor=white)](https://shivanshyadav13.medium.com/)
   
   🙋‍‍♂️ I am 18 yrs old, currently a student, very keen to explore more techs, Open source, MERN Stack.<br>
   🔭 I’m currently working on improving my Web Development skills.<br>
