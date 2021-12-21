@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/87603425/141933741-7c8d48f4-3099-4f2e-bc52-10b49f3f42a3.png)
+<!-- ![Banner](https://user-images.githubusercontent.com/87603425/141933741-7c8d48f4-3099-4f2e-bc52-10b49f3f42a3.png) -->
 <div align="center">
   
   [![Twitter](https://img.shields.io/static/v1?label=%20&message=ShivanshYadav&color=blue&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_shivansh_13)
