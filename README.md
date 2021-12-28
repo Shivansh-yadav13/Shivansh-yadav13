@@ -27,11 +27,11 @@
   ### Latest Youtube Videos 📹
   
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Create Instagram Filters | SparkAR Studio](https://www.youtube.com/watch?v=58_GP4fnD6o)
 - [Chrome Dinosaur Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #3](https://www.youtube.com/watch?v=w4TFHO3fioE)
 - [Dinosaur 🦕 Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #2](https://www.youtube.com/watch?v=y1TvbD73G-E)
 - [Develop GAMES 🎮 Using 📜 Javascript! | Kaboom.JS 💥 Tutorial #1](https://www.youtube.com/watch?v=a2NOb7NU93o)
 - [Deploy React + Express Node App To Heroku In ⭐ 4 MINS](https://www.youtube.com/watch?v=sZfuV7C_aPQ)
-- [How to Deploy React App to GitHub Pages⭐UNDER 2 MINS](https://www.youtube.com/watch?v=nkE0FP_Y2Dc)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ---
   
