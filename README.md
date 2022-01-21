@@ -6,7 +6,7 @@
   [![Youtube](https://img.shields.io/badge/-BaconHairCode-darkred?style=social&logo=youtube&link=https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ)](https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ)
   [![Blogs](https://img.shields.io/static/v1?label=%20&message=Shivansh%20Yadav%20-%20Blogs&color=black&style=social&logo=medium)](https://shivanshyadav13.medium.com/)
   
-  🙋‍‍♂️ I am 18 yrs old, currently a student, very keen to explore more techs.<br>
+  🙋‍♂️ I am 18 yrs old, currently a student, very keen to explore more techs.<br>
   🌱 Student ***MERN*** Stack Developer.<br>
   🔭 I’m currently learning about **DevOps**.<br>
   👬‍ I’m looking to **collaborate** on Projects Based on **Go**.<br>
