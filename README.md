@@ -35,5 +35,5 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ---
   
-  ![Shivansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivansh-yadav13&bg_color=000ffff&line=f21bfe&color=800080&point=800080)
+  [![Shivansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivansh-yadav13&bg_color=000000&color=ffffff&line=42c6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
