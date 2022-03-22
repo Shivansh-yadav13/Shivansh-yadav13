@@ -35,5 +35,6 @@
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 ---
   
-  [![Shivansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivansh-yadav13&bg_color=000000&color=ffffff&line=42c6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--   [![Shivansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivansh-yadav13&bg_color=000000&color=ffffff&line=42c6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
+ -->
