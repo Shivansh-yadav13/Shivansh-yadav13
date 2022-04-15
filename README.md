@@ -4,7 +4,7 @@
   [![Twitter](https://img.shields.io/static/v1?label=%20&message=ShivanshYadav&color=blue&style=social&logo=twitter)](https://twitter.com/_shivansh_13)
   ![Gmail](https://img.shields.io/badge/-yadavshivansh@gmail.com-c14438?style=social&logo=Gmail&link=mailto:yadavshivansh@gmail.com)
   [![Youtube](https://img.shields.io/badge/-BaconHairCode-darkred?style=social&logo=youtube&link=https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ)](https://www.youtube.com/channel/UC6r3Wrw3rT7roWDnYdPrbyQ)
-  [![Blogs](https://img.shields.io/static/v1?label=%20&message=Shivansh%20Yadav%20-%20Blogs&color=black&style=social&logo=medium)](https://shivanshyadav13.medium.com/)
+  [![Blogs](https://img.shields.io/badge/-Hashnode-FFFFFF?style=social&logo=hashnode)](https://shivanshyadav.hashnode.dev/)
   
   🙋‍♂️ I am 18 yrs old, currently a student, very keen to explore more techs.<br>
   🌱 Student ***MERN*** Stack Developer.<br>
