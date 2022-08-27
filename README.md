@@ -91,11 +91,11 @@ some YouTube tutorials on BaconHairCode.
  <!-- ### Latest Youtube Videos 📹 -->
   
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-<!--  - [Building a MERN App | Full Stack | #1](https://www.youtube.com/watch?v=jq573CGu3SI)
+- [Building a MERN App | Full Stack | #1](https://www.youtube.com/watch?v=jq573CGu3SI)
 - [React with MongoDB Realm | MongoDB Realm Tutorial](https://www.youtube.com/watch?v=oulJHBQKYuA)
 - [Create Instagram Filters | SparkAR Studio](https://www.youtube.com/watch?v=58_GP4fnD6o)
 - [Chrome Dinosaur Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #3](https://www.youtube.com/watch?v=w4TFHO3fioE)
-- [Dinosaur 🦕 Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #2](https://www.youtube.com/watch?v=y1TvbD73G-E) -->
+- [Dinosaur 🦕 Game 🎮 Using 📜 JavaScript! | Kaboom.Js 💥 Tutorial #2](https://www.youtube.com/watch?v=y1TvbD73G-E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
   
 <!--   [![Shivansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivansh-yadav13&bg_color=000000&color=ffffff&line=42c6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
