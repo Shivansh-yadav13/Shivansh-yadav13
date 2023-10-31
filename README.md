@@ -10,28 +10,29 @@
 
 <div align="center">
   <a href="https://discord.gg/JQTGV7mmya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/WeBuildApps-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@yadav.shivansh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://img.shields.io/badge/@yadav.shivansh-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com/shvshydv" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/badge/@shvshydv-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter logo"  />
   </a>
+
   <a href="https://www.linkedin.com/in/shivansh-yadav-61b619211/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/Shivansh Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin logo"  />
+  </a>
+  <a href="https://shivanshyadav.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode-logo"  />
   </a>
   <a href="yadav.shivansh@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/badge/yadav.shivansh@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/shivansh-yadav13/shivansh-yadav13/output/snake.svg" alt="Snake animation" />
+<br/>
 
 ###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
@@ -56,3 +57,6 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/shivansh-yadav13/shivansh-yadav13/output/snake.svg" alt="Snake animation" />
+
+###
